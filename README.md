@@ -72,7 +72,7 @@ For inquiries about this dataset, please contact:
 - DonateWater Youth Climate Action Foundation (DWYCAF)
 - Web: https://www.donatewater.ng
 - Email: [info@donatewater.ng](info@donatewater.ng "send us email")
-- X(Twitter): @donatewaterng
+- X(Twitter): [@DonateWaterNG](https://x.com/DonateWaterNG)
 
 
 
