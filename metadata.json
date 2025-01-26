@@ -22,7 +22,8 @@
     "Nigeria",
     "Environmental Data",
     "SDG 6",
-    "Gender Equality"
+    "Gender Equality",
+    "WASH"
   ],
   "methodology": "Data was collected during a limited-timeframe citizen science challenge via the DonateWater app, which enabled participants to submit geo-located images, answer follow-up questions, and provide comments. The data collection process was designed as an open challenge allowing any person in Nigeria with access to a smartphone and internet connection to participate. The platforms used to promote the challenge were GoodWall and Yoma. The challenge required users to download a separate DonateWater app that enables anyone with access to a smartphone that has a camera to participate and gather data. It is not required to have internet access at the location where a water source is recorded with the app, though a GPS signal is used for geolocation, which the user then has to confirm or correct. \nThe data that the participant needs to supply include typically three photos of the water source at different distances. The requirement for multiple photos is used to validate that the participant is physically at the water source. The phone app only accepts photos taken by the phone camera, to further prevent submission of photos previously stored on the mobile phone or downloaded from the web",
   "data collection period": [
