@@ -1,0 +1,94 @@
+{
+  "title": "DonateWater: Citizen Science Data on Water Accessibility in Nigeria",
+  "creators": [
+    {
+      "name": "Olusegun Solomon Abioye",
+      "affiliation": "DonateWater Youths Climate Action Foundation"
+    },
+    {
+      "name": "Rachael David Dayol",
+      "affiliation": "DonateWater Youths Climate Action Foundation"
+    },
+    {
+      "name": "Jose Luis Fernandez-Marquez",
+      "affiliation": "University of Geneva"
+    }
+  ],
+  "description": "This dataset, collected as part of the DonateWater initiative, provides geo-located and evidence-based data on water sources across Nigeria. It includes over 9,500 validated \ 
+  survey entries and 29,400 images, covering water quality, accessibility, and ownership. The data was collected as part of DWYCAF citizen science initiative to support Sustainable \ 
+  Development Goal 6 (Clean Water and Sanitation). It includes details on water source functionality, accessibility, quality, and ownership in Nigeria. This establishes our efforts to support \
+  the UNICEF Water, Sanitation and Hygiene (WASH) global call by providing actionable insights for policymakers, researchers, and practitioners. The survey data is also relevant for  SDG 5 on Gender \
+  Equality since women and girls are disproportionately affected by issues of access to water",
+  "keywords": [
+    "Citizen Science",
+    "Water Accessibility",
+    "Sustainable Development Goals",
+    "Nigeria",
+    "Environmental Data"
+    "SDG 6"
+  ],
+  "methodology": "Data was collected during a limited-timeframe citizen science challenge via the DonateWater app, which enabled participants to submit geo-located images, answer follow-up questions, and provide comments. \
+  The data collection process was designed as an open challenge allowing any person in Nigeria with access to a smartphone and internet connection to participate. The platforms used to promote the challenge were GoodWall and Yoma \
+  The challenge required users to download a separate DonateWater app that enables anyone with access to a smartphone that has a camera to participate and gather data. It is not required to have internet access \ 
+  at the location where a water source is recorded with the app, though a GPS signal is used for geolocation, which the user then has to confirm or correct. \n 
+  The data that the participant needs to supply include typically three photos of the water source at different distances. The requirement for multiple photos is used to validate that the participant is \
+  physically at the water source. The phone app only accepts photos taken by the phone camera, to further prevent submission of photos previously stored on the mobile phone or downloaded from the web",
+  "data collection period": [
+    {
+      "name": "#DonateWaterNG",
+      "date": "October 9th to 29th, 2022"
+    },
+    {
+      "name": "#DonateWaterNG2",
+      "date": "November 27th to December 17th, 2023"
+    },
+    {
+      "name": "#DonateWaterNG3",
+      "date": "April 30th to May 21, 2024"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "publication_date": "2025-01-26",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.1234/zenodo.1234567"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "University of Geneva",
+      "type": "Joint Coordination"
+    },
+    {
+      "name": "United Nations International Children's Emergency Fund(UNICEF)",
+      "type": "Joint Coordination"
+    },
+    {
+      "name": "YOMA",
+      "type": "Support"
+    },
+    {
+      "name": "fondation BOTNAR",
+      "type": "Support"
+    },
+    {
+      "name": "Generation Unlimited",
+      "type": "Support"
+    },
+    {
+      "name": "United Nations Institute for Training and Research(UNITAR)",
+      "type": "Data Privacy and Protection Advisory"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "citizen-science"
+    }
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "Dataset collected as part of the DonateWater initiative using our innovative CitSci app. The dataset is provided as a CSV file (1.5 MB), accompanied by a README file. This project was supported by UNITAR and Yoma."
+}
