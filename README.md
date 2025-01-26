@@ -3,7 +3,7 @@ Comprehensive research of the water source characteristics, user experiences, an
 # DonateWater Dataset
 ## Overview
 
-The DonateWater dataset is a product of a youth-driven citizen science initiative aimed at addressing water access challenges in Nigeria. The dataset contains information on water sources, functionality, ownership, and accessibility collected by volunteers using the DonateWater mobile application. This dataset supports research aligned with Sustainable Development Goal 6 (Clean Water and Sanitation).
+The DonateWater Dataset is a product of a youth-driven citizen science innovation aimed at addressing water access challenges in Nigeria. The dataset contains information on water sources, treatment, quality, traveltime, functionality, ownership, accessibility and more, collected by volunteers using the DonateWater mobile application. This dataset supports research aligned with Sustainable Development Goals SDG 5(Gender Equality) since women and girls are disproportionately affected by issues of access to water, 6(Clean Water and Sanitation), and 13(Climate Action) respectively.
 
 ## Contents
 The dataset includes the following information:
