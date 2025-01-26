@@ -63,7 +63,7 @@ This dataset is provided for research and educational purposes only. Users must 
 
 ## Citation
 If you use this dataset in your research or publication, please cite:
-> DonateWater Youth Climate Action Foundation. (2024). DonateWater Dataset. Zenodo. [DOI/Link to dataset]
+> DonateWater Youth Climate Action Foundation. (2024). DonateWater Dataset. [DOI/Link to be here]
 
 <br>
 
