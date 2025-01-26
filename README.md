@@ -41,7 +41,7 @@ The dataset is provided in CSV format and includes the following fields:
 ## Anonymization Steps
 To ensure the privacy and security of contributors, the dataset has been anonymized. Below are the steps taken to protect sensitive information:
 1. **Removal of Personal Identifiable Information (PII):**
-   - The `UserEmail` field was removed.
+   - The `UserEmail` field was anonymized as part users protection compliance.
 <!-- 2. **Location Data Generalization:**
     - Precise geolocation coordinates were rounded to two decimal places to ensure a 1 km generalization radius. -->
 2. **Comment Sanitization:**
@@ -51,7 +51,7 @@ To ensure the privacy and security of contributors, the dataset has been anonymi
 3. **Image Data Handling:**
     - URLs in the `ImageUrls` field were reviewed. Any image that might include identifiable details was removed or redacted.
 4. **Randomization of Identifiers:**
-    - The `Id` field was randomized to prevent traceability to individual submissions.
+    - The `ID` field was randomized to prevent traceability to individual submissions.
 5. **Validation and Final Review:**
     - The dataset underwent a manual review to ensure no residual sensitive information was left in the final version.
 <br>
